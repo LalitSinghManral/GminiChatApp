@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">GminiChatApp</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="stay_with_your_chatbot">Stay connected with LLM Inference Chatbot</string>
+    <string name="model_description">The current default model is G_mini and by default delegates to GPU</string>
+    <string name="type_message">Type Message</string>
+    <string name="welcome">"Welcome back, "</string>
+
+    <string name="online">Online</string>
+    <string name="enter_your_name">Enter your name:</string>
+
+
 </resources>
